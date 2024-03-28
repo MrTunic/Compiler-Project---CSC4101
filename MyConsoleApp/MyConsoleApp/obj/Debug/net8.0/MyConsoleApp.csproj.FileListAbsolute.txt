@@ -1,0 +1,14 @@
+/Users/omariona/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/Users/omariona/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/Users/omariona/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/Users/omariona/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/Users/omariona/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/Users/omariona/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
